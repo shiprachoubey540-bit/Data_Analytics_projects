@@ -1,2 +1,2 @@
-Jupyter notebook File composed of EDA techniques.
-Csv zip file contains the dataset which was taken from Kaggle
+Data analysis done on retail sales dataset which is easily available on Kaggle
+Coding done on colab.
